@@ -58,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/ishikagoyal65/DSA/tree/master/2054-two-best-non-overlapping-events) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ishikagoyal65/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ishikagoyal65/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
