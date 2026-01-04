@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/ishikagoyal65/DSA/tree/master/0682-baseball-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishikagoyal65/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/ishikagoyal65/DSA/tree/master/1390-four-divisors) |
 | [2054-two-best-non-overlapping-events](https://github.com/ishikagoyal65/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishikagoyal65/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ishikagoyal65/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ishikagoyal65/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
+| [1390-four-divisors](https://github.com/ishikagoyal65/DSA/tree/master/1390-four-divisors) |
 ## Binary Search
 |  |
 | ------- |
