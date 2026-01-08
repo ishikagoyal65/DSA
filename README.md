@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ishikagoyal65/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/ishikagoyal65/DSA/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/ishikagoyal65/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/ishikagoyal65/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
