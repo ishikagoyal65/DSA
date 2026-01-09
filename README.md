@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ishikagoyal65/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ishikagoyal65/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishikagoyal65/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/ishikagoyal65/DSA/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/ishikagoyal65/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
