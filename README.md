@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishikagoyal65/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/ishikagoyal65/DSA/tree/master/1390-four-divisors) |
 | [2054-two-best-non-overlapping-events](https://github.com/ishikagoyal65/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ishikagoyal65/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishikagoyal65/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ishikagoyal65/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Greedy
@@ -79,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishikagoyal65/DSA/tree/master/0020-valid-parentheses) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ishikagoyal65/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ishikagoyal65/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
