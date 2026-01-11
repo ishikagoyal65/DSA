@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ishikagoyal65/DSA/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/ishikagoyal65/DSA/tree/master/0085-maximal-rectangle) |
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/ishikagoyal65/DSA/tree/master/0682-baseball-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishikagoyal65/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishikagoyal65/DSA/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/ishikagoyal65/DSA/tree/master/0085-maximal-rectangle) |
 | [0682-baseball-game](https://github.com/ishikagoyal65/DSA/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ishikagoyal65/DSA/tree/master/0085-maximal-rectangle) |
 | [2054-two-best-non-overlapping-events](https://github.com/ishikagoyal65/DSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
@@ -85,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ishikagoyal65/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ishikagoyal65/DSA/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ishikagoyal65/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
