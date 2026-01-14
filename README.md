@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ishikagoyal65/DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ishikagoyal65/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/ishikagoyal65/DSA/tree/master/0085-maximal-rectangle) |
+| [0136-single-number](https://github.com/ishikagoyal65/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/ishikagoyal65/DSA/tree/master/0682-baseball-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishikagoyal65/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ishikagoyal65/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/ishikagoyal65/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
