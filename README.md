@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishikagoyal65/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ishikagoyal65/DSA/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishikagoyal65/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishikagoyal65/DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/ishikagoyal65/DSA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/ishikagoyal65/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ishikagoyal65/DSA/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishikagoyal65/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ishikagoyal65/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ishikagoyal65/DSA/tree/master/0020-valid-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ishikagoyal65/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
